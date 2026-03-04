@@ -1,9 +1,8 @@
-// ✅ Paste your firebaseConfig here (from Firebase Console)
 export const firebaseConfig = {
-  apiKey: "PASTE_HERE",
-  authDomain: "PASTE_HERE",
-  projectId: "PASTE_HERE",
-  storageBucket: "PASTE_HERE",
-  messagingSenderId: "PASTE_HERE",
-  appId: "PASTE_HERE"
+  apiKey: "AIzaSyB...",
+  authDomain: "medical-store-5ce21.firebaseapp.com",
+  projectId: "medical-store-5ce21",
+  storageBucket: "medical-store-5ce21.firebasestorage.app",
+  messagingSenderId: "591571144844",
+  appId: "1:591571144844:web:d5a512b9bff23fd2f82ba9"
 };
